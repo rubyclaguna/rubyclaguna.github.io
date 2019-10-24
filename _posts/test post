@@ -1,6 +1,6 @@
 ---
 layout: post 
-title: Test Post 1 
+title: Can Video Game Sales be Predicted? 
 --- 
 
-Text Post
+The video game craze has been on a steady rise in the past decade, making it a $100 billion global industry. Nearly two thirds of American families have a family member who plays video games regularly. But, what exactly causes these influx of sales? Perhaps, certain genres or publishers attract audiences more than others. I will be inspecting a video game dataset and try to determine if video game sales can be predicted. The dataset in which I have chosen consists of data from the EU, US, and JP regions. I will solely focus on the US category for this experiment’s sake.
